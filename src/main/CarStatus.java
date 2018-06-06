@@ -2,8 +2,8 @@ package main;
 
 public class CarStatus {
 
-	int d;
-	Intersection loc;
+	int d; //Delta
+	Intersection loc; //Current location
 	
 	public CarStatus(int d, Intersection loc) {
 		this.d = d;

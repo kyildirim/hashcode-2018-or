@@ -2,6 +2,7 @@ package main;
 
 public class Ride {
 
+	//Ride variables.
 	int id;
 	Intersection start;
 	Intersection end;
